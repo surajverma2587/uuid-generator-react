@@ -40,6 +40,24 @@ body {
   color: #000;
 }
 
+.btn-clipboard {
+  background-color: #fefae0;
+  color: #000;
+}
+
+.btn-clipboard:hover {
+  background-color: #faf2be;
+  color: #000;
+}
+
+.btn-copied {
+  background-color: #606c38;
+}
+
+.btn-copied:hover {
+  background-color: #606c38a1;
+}
+
 .uuid-text {
   font-weight: 500;
   letter-spacing: 2px;
