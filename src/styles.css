@@ -1,0 +1,51 @@
+body {
+  font-family: "Dancing Script", cursive;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Lato", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0;
+}
+
+.header {
+  text-align: center;
+  background-color: #283618;
+  color: #fff;
+  padding: 2rem;
+  letter-spacing: 4px;
+}
+
+.uuid-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.uuid-item {
+  padding: 20px 0px;
+}
+
+.btn {
+  min-width: 300px;
+  padding: 1rem;
+  border: none;
+  background-color: #bc6c25;
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: #bc6b25c5;
+  color: #000;
+}
+
+.uuid-text {
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+
+.uuid-text-block {
+  border: 1px solid #000;
+  border-radius: 4px;
+}
